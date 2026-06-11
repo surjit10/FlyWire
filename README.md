@@ -408,12 +408,12 @@ submisssion/
 │
 └── results/
     └── 4-phase8-10-v6/
-        ├── circuit_network.html
-        ├── circuit_size_by_seed.html
-        ├── degree_histogram.html
-        ├── family_comparison.html
-        ├── in_degree_histogram.html
-        └── out_degree_histogram.html
+        ├── circuit_network.jpg
+        ├── circuit_size_by_seed.jpg
+        ├── degree_histogram.jpg
+        ├── family_comparison.jpg
+        ├── in_degree_histogram.jpg
+        └── out_degree_histogram.jpg
 ```
 
 ---
@@ -428,7 +428,7 @@ submisssion/
 | `scikit-learn` | `RobustScaler`, `NearestNeighbors` (cosine KNN) |
 | `pandas` | Data loading, feature table management |
 | `numpy` | Numerical operations, array handling |
-| `plotly` | Interactive HTML visualizations in `results/` |
+| `plotly` | Static JPG visualizations in `results/` |
 
 ### Expected Output
 
