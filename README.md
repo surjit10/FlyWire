@@ -458,24 +458,42 @@ Run the four notebooks in sequence. Each notebook saves checkpoint files to `res
 ```
 
 Do not skip or reorder phases. Each phase depends on checkpoint outputs produced by the previous notebook.
-# Clone the repository
-git clone <repository-url>
 
-# Enter the project directory
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+```
+
+### Enter the project directory
+
+```bash
 cd submission
+```
 
-# Open Jupyter Notebook or JupyterLab
+### Open Jupyter Notebook or JupyterLab
+
+```bash
 jupyter notebook
-# or
+```
+
+or
+
+```bash
 jupyter lab
+```
 
-# Run notebooks in the following order:
+### Run notebooks in the following order
 
+```text
 1-phase1-4-v1.ipynb
+        ↓
 2-phase5.ipynb
+        ↓
 3-phase6-7v6.ipynb
+        ↓
 4-phase8-10-v6.ipynb
-
+```
 
 
 ### Key Configuration Parameters
