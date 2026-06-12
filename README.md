@@ -360,6 +360,21 @@ The independent recovery of the same CT1 neuron type across three separately and
 Figure 3 — CT1 Correspondence Across Datasets
 
 (Images: `figures/moal.jpeg`, `figures/fafb.jpeg`, `figures/mcns.jpeg`)
+### Figure 3 — CT1 Correspondence Across Datasets
+
+![MAOL CT1](figures/moal.jpeg)
+
+**MAOL**
+
+![FAFB CT1](figures/fafb.jpeg)
+
+**FAFB**
+
+![MCNS CT1](figures/mcns.jpeg)
+
+**MCNS**
+
+*Figure 3. Independent Codex annotations of the matched hub neuron in MAOL, FAFB, and MCNS. All three correspondences are identified as CT1 GABAergic optic-lobe intrinsic neurons.*
 
 *Figure 3. Independent Codex annotations of the matched hub neuron in MAOL, FAFB, and MCNS. All three correspondences are identified as CT1 GABAergic optic-lobe intrinsic neurons.*
 
